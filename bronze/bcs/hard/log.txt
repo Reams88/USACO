@@ -1,0 +1,1482 @@
+AAT ACT
+spotty: 
+AAT
+plain: 
+ACT
+GAT ACT
+spotty: 
+AAT
+GAT
+plain: 
+ACT
+GGT ACT
+spotty: 
+AAT
+GAT
+GGT
+plain: 
+ACT
+merged: 
+AAT
+ACT
+GAT
+GGT
+4 4
+1 2 3
+
+AAC ACC
+spotty: 
+AAC
+plain: 
+ACC
+GAT ACC
+spotty: 
+AAC
+GAT
+plain: 
+ACC
+GGC ACT
+spotty: 
+AAC
+GAT
+GGC
+plain: 
+ACC
+ACT
+merged: 
+AAC
+ACC
+ACT
+GAT
+GGC
+5 5
+1 2 4
+
+AAC ACC
+spotty: 
+AAC
+plain: 
+ACC
+GAG ACG
+spotty: 
+AAC
+GAG
+plain: 
+ACC
+ACG
+GGG ACC
+spotty: 
+AAC
+GAG
+GGG
+plain: 
+ACC
+ACG
+merged: 
+AAC
+ACC
+ACG
+GAG
+GGG
+5 5
+1 2 5
+
+AAC ACC
+spotty: 
+AAC
+plain: 
+ACC
+GAC ACC
+spotty: 
+AAC
+GAC
+plain: 
+ACC
+GGC ACC
+spotty: 
+AAC
+GAC
+GGC
+plain: 
+ACC
+merged: 
+AAC
+ACC
+GAC
+GGC
+4 4
+1 2 6
+
+AAA ACA
+spotty: 
+AAA
+plain: 
+ACA
+GAA ACA
+spotty: 
+AAA
+GAA
+plain: 
+ACA
+GGA ACA
+spotty: 
+AAA
+GAA
+GGA
+plain: 
+ACA
+merged: 
+AAA
+ACA
+GAA
+GGA
+4 4
+1 2 7
+
+AAT ACG
+spotty: 
+AAT
+plain: 
+ACG
+GAA ACT
+spotty: 
+AAT
+GAA
+plain: 
+ACG
+ACT
+GGA ACT
+spotty: 
+AAT
+GAA
+GGA
+plain: 
+ACG
+ACT
+merged: 
+AAT
+ACG
+ACT
+GAA
+GGA
+5 5
+1 2 8
+
+ATC ATC
+spotty: 
+ATC
+plain: 
+ATC
+GTT ATC
+spotty: 
+ATC
+GTT
+plain: 
+ATC
+GTC ATT
+spotty: 
+ATC
+GTC
+GTT
+plain: 
+ATC
+ATT
+merged: 
+ATC
+ATT
+GTC
+GTT
+4 5
+
+ATC ATC
+spotty: 
+ATC
+plain: 
+ATC
+GTG ATG
+spotty: 
+ATC
+GTG
+plain: 
+ATC
+ATG
+GTG ATC
+spotty: 
+ATC
+GTG
+plain: 
+ATC
+ATG
+merged: 
+ATC
+ATG
+GTG
+3 4
+
+ATC ATC
+spotty: 
+ATC
+plain: 
+ATC
+GTC ATC
+spotty: 
+ATC
+GTC
+plain: 
+ATC
+GTC ATC
+spotty: 
+ATC
+GTC
+plain: 
+ATC
+merged: 
+ATC
+GTC
+2 3
+
+ATA ATA
+spotty: 
+ATA
+plain: 
+ATA
+GTA ATA
+spotty: 
+ATA
+GTA
+plain: 
+ATA
+GTA ATA
+spotty: 
+ATA
+GTA
+plain: 
+ATA
+merged: 
+ATA
+GTA
+2 3
+
+ATT ATG
+spotty: 
+ATT
+plain: 
+ATG
+GTA ATT
+spotty: 
+ATT
+GTA
+plain: 
+ATG
+ATT
+GTA ATT
+spotty: 
+ATT
+GTA
+plain: 
+ATG
+ATT
+merged: 
+ATG
+ATT
+GTA
+3 4
+
+ACC ACC
+spotty: 
+ACC
+plain: 
+ACC
+GTG ACG
+spotty: 
+ACC
+GTG
+plain: 
+ACC
+ACG
+GCG ATC
+spotty: 
+ACC
+GCG
+GTG
+plain: 
+ACC
+ACG
+ATC
+merged: 
+ACC
+ACG
+ATC
+GCG
+GTG
+5 6
+
+ACC ACC
+spotty: 
+ACC
+plain: 
+ACC
+GTC ACC
+spotty: 
+ACC
+GTC
+plain: 
+ACC
+GCC ATC
+spotty: 
+ACC
+GCC
+GTC
+plain: 
+ACC
+ATC
+merged: 
+ACC
+ATC
+GCC
+GTC
+4 5
+
+ACA ACA
+spotty: 
+ACA
+plain: 
+ACA
+GTA ACA
+spotty: 
+ACA
+GTA
+plain: 
+ACA
+GCA ATA
+spotty: 
+ACA
+GCA
+GTA
+plain: 
+ACA
+ATA
+merged: 
+ACA
+ATA
+GCA
+GTA
+4 5
+
+ACT ACG
+spotty: 
+ACT
+plain: 
+ACG
+GTA ACT
+spotty: 
+ACT
+GTA
+plain: 
+ACG
+ACT
+GCA ATT
+spotty: 
+ACT
+GCA
+GTA
+plain: 
+ACG
+ACT
+ATT
+merged: 
+ACG
+ACT
+ATT
+GCA
+GTA
+5 6
+
+ACC ACC
+spotty: 
+ACC
+plain: 
+ACC
+GGC AGC
+spotty: 
+ACC
+GGC
+plain: 
+ACC
+AGC
+GGC ACC
+spotty: 
+ACC
+GGC
+plain: 
+ACC
+AGC
+merged: 
+ACC
+AGC
+GGC
+3 4
+
+ACA ACA
+spotty: 
+ACA
+plain: 
+ACA
+GGA AGA
+spotty: 
+ACA
+GGA
+plain: 
+ACA
+AGA
+GGA ACA
+spotty: 
+ACA
+GGA
+plain: 
+ACA
+AGA
+merged: 
+ACA
+AGA
+GGA
+3 4
+
+ACT ACG
+spotty: 
+ACT
+plain: 
+ACG
+GGA AGT
+spotty: 
+ACT
+GGA
+plain: 
+ACG
+AGT
+GGA ACT
+spotty: 
+ACT
+GGA
+plain: 
+ACG
+ACT
+AGT
+merged: 
+ACG
+ACT
+AGT
+GGA
+4 5
+
+ACA ACA
+spotty: 
+ACA
+plain: 
+ACA
+GCA ACA
+spotty: 
+ACA
+GCA
+plain: 
+ACA
+GCA ACA
+spotty: 
+ACA
+GCA
+plain: 
+ACA
+merged: 
+ACA
+GCA
+2 3
+
+ACT ACG
+spotty: 
+ACT
+plain: 
+ACG
+GCA ACT
+spotty: 
+ACT
+GCA
+plain: 
+ACG
+ACT
+GCA ACT
+spotty: 
+ACT
+GCA
+plain: 
+ACG
+ACT
+merged: 
+ACG
+ACT
+GCA
+3 4
+
+AAT AAG
+spotty: 
+AAT
+plain: 
+AAG
+GAA AAT
+spotty: 
+AAT
+GAA
+plain: 
+AAG
+AAT
+GAA AAT
+spotty: 
+AAT
+GAA
+plain: 
+AAG
+AAT
+merged: 
+AAG
+AAT
+GAA
+3 4
+
+ATC CTC
+spotty: 
+ATC
+plain: 
+CTC
+ATT CTC
+spotty: 
+ATC
+ATT
+plain: 
+CTC
+GTC CTT
+spotty: 
+ATC
+ATT
+GTC
+plain: 
+CTC
+CTT
+merged: 
+ATC
+ATT
+CTC
+CTT
+GTC
+5 5
+2 3 4
+
+ATC CTC
+spotty: 
+ATC
+plain: 
+CTC
+ATG CTG
+spotty: 
+ATC
+ATG
+plain: 
+CTC
+CTG
+GTG CTC
+spotty: 
+ATC
+ATG
+GTG
+plain: 
+CTC
+CTG
+merged: 
+ATC
+ATG
+CTC
+CTG
+GTG
+5 5
+2 3 5
+
+ATC CTC
+spotty: 
+ATC
+plain: 
+CTC
+ATC CTC
+spotty: 
+ATC
+plain: 
+CTC
+GTC CTC
+spotty: 
+ATC
+GTC
+plain: 
+CTC
+merged: 
+ATC
+CTC
+GTC
+3 3
+2 3 6
+
+ATA CTA
+spotty: 
+ATA
+plain: 
+CTA
+ATA CTA
+spotty: 
+ATA
+plain: 
+CTA
+GTA CTA
+spotty: 
+ATA
+GTA
+plain: 
+CTA
+merged: 
+ATA
+CTA
+GTA
+3 3
+2 3 7
+
+ATT CTG
+spotty: 
+ATT
+plain: 
+CTG
+ATA CTT
+spotty: 
+ATA
+ATT
+plain: 
+CTG
+CTT
+GTA CTT
+spotty: 
+ATA
+ATT
+GTA
+plain: 
+CTG
+CTT
+merged: 
+ATA
+ATT
+CTG
+CTT
+GTA
+5 5
+2 3 8
+
+ACC CCC
+spotty: 
+ACC
+plain: 
+CCC
+ATG CCG
+spotty: 
+ACC
+ATG
+plain: 
+CCC
+CCG
+GCG CTC
+spotty: 
+ACC
+ATG
+GCG
+plain: 
+CCC
+CCG
+CTC
+merged: 
+ACC
+ATG
+CCC
+CCG
+CTC
+GCG
+6 6
+2 4 5
+
+ACC CCC
+spotty: 
+ACC
+plain: 
+CCC
+ATC CCC
+spotty: 
+ACC
+ATC
+plain: 
+CCC
+GCC CTC
+spotty: 
+ACC
+ATC
+GCC
+plain: 
+CCC
+CTC
+merged: 
+ACC
+ATC
+CCC
+CTC
+GCC
+5 5
+2 4 6
+
+ACA CCA
+spotty: 
+ACA
+plain: 
+CCA
+ATA CCA
+spotty: 
+ACA
+ATA
+plain: 
+CCA
+GCA CTA
+spotty: 
+ACA
+ATA
+GCA
+plain: 
+CCA
+CTA
+merged: 
+ACA
+ATA
+CCA
+CTA
+GCA
+5 5
+2 4 7
+
+ACT CCG
+spotty: 
+ACT
+plain: 
+CCG
+ATA CCT
+spotty: 
+ACT
+ATA
+plain: 
+CCG
+CCT
+GCA CTT
+spotty: 
+ACT
+ATA
+GCA
+plain: 
+CCG
+CCT
+CTT
+merged: 
+ACT
+ATA
+CCG
+CCT
+CTT
+GCA
+6 6
+2 4 8
+
+ACC CCC
+spotty: 
+ACC
+plain: 
+CCC
+AGC CGC
+spotty: 
+ACC
+AGC
+plain: 
+CCC
+CGC
+GGC CCC
+spotty: 
+ACC
+AGC
+GGC
+plain: 
+CCC
+CGC
+merged: 
+ACC
+AGC
+CCC
+CGC
+GGC
+5 5
+2 5 6
+
+ACA CCA
+spotty: 
+ACA
+plain: 
+CCA
+AGA CGA
+spotty: 
+ACA
+AGA
+plain: 
+CCA
+CGA
+GGA CCA
+spotty: 
+ACA
+AGA
+GGA
+plain: 
+CCA
+CGA
+merged: 
+ACA
+AGA
+CCA
+CGA
+GGA
+5 5
+2 5 7
+
+ACT CCG
+spotty: 
+ACT
+plain: 
+CCG
+AGA CGT
+spotty: 
+ACT
+AGA
+plain: 
+CCG
+CGT
+GGA CCT
+spotty: 
+ACT
+AGA
+GGA
+plain: 
+CCG
+CCT
+CGT
+merged: 
+ACT
+AGA
+CCG
+CCT
+CGT
+GGA
+6 6
+2 5 8
+
+ACA CCA
+spotty: 
+ACA
+plain: 
+CCA
+ACA CCA
+spotty: 
+ACA
+plain: 
+CCA
+GCA CCA
+spotty: 
+ACA
+GCA
+plain: 
+CCA
+merged: 
+ACA
+CCA
+GCA
+3 3
+2 6 7
+
+ACT CCG
+spotty: 
+ACT
+plain: 
+CCG
+ACA CCT
+spotty: 
+ACA
+ACT
+plain: 
+CCG
+CCT
+GCA CCT
+spotty: 
+ACA
+ACT
+GCA
+plain: 
+CCG
+CCT
+merged: 
+ACA
+ACT
+CCG
+CCT
+GCA
+5 5
+2 6 8
+
+AAT CAG
+spotty: 
+AAT
+plain: 
+CAG
+AAA CAT
+spotty: 
+AAA
+AAT
+plain: 
+CAG
+CAT
+GAA CAT
+spotty: 
+AAA
+AAT
+GAA
+plain: 
+CAG
+CAT
+merged: 
+AAA
+AAT
+CAG
+CAT
+GAA
+5 5
+2 7 8
+
+TCC TCC
+spotty: 
+TCC
+plain: 
+TCC
+TTG TCG
+spotty: 
+TCC
+TTG
+plain: 
+TCC
+TCG
+TCG TTC
+spotty: 
+TCC
+TCG
+TTG
+plain: 
+TCC
+TCG
+TTC
+merged: 
+TCC
+TCG
+TTC
+TTG
+4 6
+
+TCC TCC
+spotty: 
+TCC
+plain: 
+TCC
+TTC TCC
+spotty: 
+TCC
+TTC
+plain: 
+TCC
+TCC TTC
+spotty: 
+TCC
+TTC
+plain: 
+TCC
+TTC
+merged: 
+TCC
+TTC
+2 4
+
+TCA TCA
+spotty: 
+TCA
+plain: 
+TCA
+TTA TCA
+spotty: 
+TCA
+TTA
+plain: 
+TCA
+TCA TTA
+spotty: 
+TCA
+TTA
+plain: 
+TCA
+TTA
+merged: 
+TCA
+TTA
+2 4
+
+TCT TCG
+spotty: 
+TCT
+plain: 
+TCG
+TTA TCT
+spotty: 
+TCT
+TTA
+plain: 
+TCG
+TCT
+TCA TTT
+spotty: 
+TCA
+TCT
+TTA
+plain: 
+TCG
+TCT
+TTT
+merged: 
+TCA
+TCG
+TCT
+TTA
+TTT
+5 6
+
+TCC TCC
+spotty: 
+TCC
+plain: 
+TCC
+TGC TGC
+spotty: 
+TCC
+TGC
+plain: 
+TCC
+TGC
+TGC TCC
+spotty: 
+TCC
+TGC
+plain: 
+TCC
+TGC
+merged: 
+TCC
+TGC
+2 4
+
+TCA TCA
+spotty: 
+TCA
+plain: 
+TCA
+TGA TGA
+spotty: 
+TCA
+TGA
+plain: 
+TCA
+TGA
+TGA TCA
+spotty: 
+TCA
+TGA
+plain: 
+TCA
+TGA
+merged: 
+TCA
+TGA
+2 4
+
+TCT TCG
+spotty: 
+TCT
+plain: 
+TCG
+TGA TGT
+spotty: 
+TCT
+TGA
+plain: 
+TCG
+TGT
+TGA TCT
+spotty: 
+TCT
+TGA
+plain: 
+TCG
+TCT
+TGT
+merged: 
+TCG
+TCT
+TGA
+TGT
+4 5
+
+TCA TCA
+spotty: 
+TCA
+plain: 
+TCA
+TCA TCA
+spotty: 
+TCA
+plain: 
+TCA
+TCA TCA
+spotty: 
+TCA
+plain: 
+TCA
+merged: 
+TCA
+1 2
+
+TCT TCG
+spotty: 
+TCT
+plain: 
+TCG
+TCA TCT
+spotty: 
+TCA
+TCT
+plain: 
+TCG
+TCT
+TCA TCT
+spotty: 
+TCA
+TCT
+plain: 
+TCG
+TCT
+merged: 
+TCA
+TCG
+TCT
+3 4
+
+TAT TAG
+spotty: 
+TAT
+plain: 
+TAG
+TAA TAT
+spotty: 
+TAA
+TAT
+plain: 
+TAG
+TAT
+TAA TAT
+spotty: 
+TAA
+TAT
+plain: 
+TAG
+TAT
+merged: 
+TAA
+TAG
+TAT
+3 4
+
+CCC CCC
+spotty: 
+CCC
+plain: 
+CCC
+TGC CGC
+spotty: 
+CCC
+TGC
+plain: 
+CCC
+CGC
+CGC TCC
+spotty: 
+CCC
+CGC
+TGC
+plain: 
+CCC
+CGC
+TCC
+merged: 
+CCC
+CGC
+TCC
+TGC
+4 6
+
+CCA CCA
+spotty: 
+CCA
+plain: 
+CCA
+TGA CGA
+spotty: 
+CCA
+TGA
+plain: 
+CCA
+CGA
+CGA TCA
+spotty: 
+CCA
+CGA
+TGA
+plain: 
+CCA
+CGA
+TCA
+merged: 
+CCA
+CGA
+TCA
+TGA
+4 6
+
+CCT CCG
+spotty: 
+CCT
+plain: 
+CCG
+TGA CGT
+spotty: 
+CCT
+TGA
+plain: 
+CCG
+CGT
+CGA TCT
+spotty: 
+CCT
+CGA
+TGA
+plain: 
+CCG
+CGT
+TCT
+merged: 
+CCG
+CCT
+CGA
+CGT
+TCT
+TGA
+6 6
+4 5 8
+
+CCA CCA
+spotty: 
+CCA
+plain: 
+CCA
+TCA CCA
+spotty: 
+CCA
+TCA
+plain: 
+CCA
+CCA TCA
+spotty: 
+CCA
+TCA
+plain: 
+CCA
+TCA
+merged: 
+CCA
+TCA
+2 4
+
+CCT CCG
+spotty: 
+CCT
+plain: 
+CCG
+TCA CCT
+spotty: 
+CCT
+TCA
+plain: 
+CCG
+CCT
+CCA TCT
+spotty: 
+CCA
+CCT
+TCA
+plain: 
+CCG
+CCT
+TCT
+merged: 
+CCA
+CCG
+CCT
+TCA
+TCT
+5 6
+
+CAT CAG
+spotty: 
+CAT
+plain: 
+CAG
+TAA CAT
+spotty: 
+CAT
+TAA
+plain: 
+CAG
+CAT
+CAA TAT
+spotty: 
+CAA
+CAT
+TAA
+plain: 
+CAG
+CAT
+TAT
+merged: 
+CAA
+CAG
+CAT
+TAA
+TAT
+5 6
+
+CCA CCA
+spotty: 
+CCA
+plain: 
+CCA
+GCA GCA
+spotty: 
+CCA
+GCA
+plain: 
+CCA
+GCA
+GCA CCA
+spotty: 
+CCA
+GCA
+plain: 
+CCA
+GCA
+merged: 
+CCA
+GCA
+2 4
+
+CCT CCG
+spotty: 
+CCT
+plain: 
+CCG
+GCA GCT
+spotty: 
+CCT
+GCA
+plain: 
+CCG
+GCT
+GCA CCT
+spotty: 
+CCT
+GCA
+plain: 
+CCG
+CCT
+GCT
+merged: 
+CCG
+CCT
+GCA
+GCT
+4 5
+
+CAT CAG
+spotty: 
+CAT
+plain: 
+CAG
+GAA GAT
+spotty: 
+CAT
+GAA
+plain: 
+CAG
+GAT
+GAA CAT
+spotty: 
+CAT
+GAA
+plain: 
+CAG
+CAT
+GAT
+merged: 
+CAG
+CAT
+GAA
+GAT
+4 5
+
+CAT CAG
+spotty: 
+CAT
+plain: 
+CAG
+CAA CAT
+spotty: 
+CAA
+CAT
+plain: 
+CAG
+CAT
+CAA CAT
+spotty: 
+CAA
+CAT
+plain: 
+CAG
+CAT
+merged: 
+CAA
+CAG
+CAT
+3 4
+
+22
